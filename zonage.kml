@@ -30,44 +30,6 @@
         <styleUrl>#line-7CB342-3131-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-CE93D8-1200-77-nodesc-normal">
-      <LineStyle>
-        <color>ffd893ce</color>
-        <width>1.2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4dd893ce</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="poly-CE93D8-1200-77-nodesc-highlight">
-      <LineStyle>
-        <color>ffd893ce</color>
-        <width>1.8</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4dd893ce</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="poly-CE93D8-1200-77-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-CE93D8-1200-77-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-CE93D8-1200-77-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-CE93D8-1200-87-nodesc-normal">
       <LineStyle>
         <color>ffd893ce</color>
@@ -107,25 +69,6 @@
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>Trafalgar Court Zone</name>
-      <styleUrl>#poly-CE93D8-1200-77-nodesc</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <tessellate>1</tessellate>
-            <coordinates>
-              -2.2585672,53.4483037,0
-              -2.2585029,53.4462239,0
-              -2.2554666,53.446291,0
-              -2.2549113,53.4473836,0
-              -2.2548926,53.4484251,0
-              -2.2585672,53.4483037,0
-            </coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
       <name>Park Zone</name>
       <styleUrl>#poly-CE93D8-1200-87-nodesc</styleUrl>
       <Polygon>
@@ -133,16 +76,18 @@
           <LinearRing>
             <tessellate>1</tessellate>
             <coordinates>
-              -2.2528368,53.4553347,0
-              -2.2523218,53.4481919,0
-              -2.2491994,53.4485308,0
+              -2.2579866,53.453252,0
+              -2.2586518,53.4461983,0
+              -2.2552696,53.4462704,0
+              -2.2486257,53.4472624,0
+              -2.2485986,53.4483775,0
               -2.2442537,53.4483963,0
               -2.2445112,53.4517059,0
               -2.2456699,53.4517059,0
               -2.2457987,53.4537248,0
               -2.2475582,53.4537504,0
               -2.2517639,53.455437,0
-              -2.2528368,53.4553347,0
+              -2.2579866,53.453252,0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
